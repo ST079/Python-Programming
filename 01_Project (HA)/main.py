@@ -136,6 +136,7 @@ def invoice(is_purchased_or_sold,product, quantity, price_per_unit, total_price)
 # Main function or landing function       
 def main():
     heading()
+    print("=======================================================")
     print("1. Buy")
     print("2. Sell")
     print("3. Exit")
