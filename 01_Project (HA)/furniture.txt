@@ -4,6 +4,3 @@
 4, kimball International Inc, Comer sofa, 75, $350
 5, Kohler Co., Armchair, 30, $150
 6, Masco Corporation, Desk chair, 130, $325.0
-
-
-15, sujan, iphone, 500, $10000.0
